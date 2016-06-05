@@ -1,0 +1,7 @@
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.SharedKernel.Testes\bin\Debug\MinhaEmpresa.SharedKernel.Testes.dll
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.SharedKernel.Testes\bin\Debug\MinhaEmpresa.SharedKernel.Testes.pdb
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.SharedKernel.Testes\bin\Debug\nunit.framework.dll
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.SharedKernel.Testes\bin\Debug\nunit.framework.xml
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.SharedKernel.Testes\obj\Debug\MinhaEmpresa.SharedKernel.Testes.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.SharedKernel.Testes\obj\Debug\MinhaEmpresa.SharedKernel.Testes.dll
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.SharedKernel.Testes\obj\Debug\MinhaEmpresa.SharedKernel.Testes.pdb

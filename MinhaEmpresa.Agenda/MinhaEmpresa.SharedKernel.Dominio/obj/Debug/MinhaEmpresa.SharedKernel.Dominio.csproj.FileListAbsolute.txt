@@ -1,0 +1,4 @@
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.SharedKernel.Dominio\bin\Debug\MinhaEmpresa.SharedKernel.Dominio.dll
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.SharedKernel.Dominio\bin\Debug\MinhaEmpresa.SharedKernel.Dominio.pdb
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.SharedKernel.Dominio\obj\Debug\MinhaEmpresa.SharedKernel.Dominio.dll
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.SharedKernel.Dominio\obj\Debug\MinhaEmpresa.SharedKernel.Dominio.pdb

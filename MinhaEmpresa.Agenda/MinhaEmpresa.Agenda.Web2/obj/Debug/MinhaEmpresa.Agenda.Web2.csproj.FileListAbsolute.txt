@@ -1,0 +1,5 @@
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda.Web2\bin\MinhaEmpresa.Agenda.Web2.dll.config
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda.Web2\bin\MinhaEmpresa.Agenda.Web2.dll
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda.Web2\bin\MinhaEmpresa.Agenda.Web2.pdb
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda.Web2\obj\Debug\MinhaEmpresa.Agenda.Web2.dll
+C:\Users\Jorge\Documents\Dropbox\Faculdade\Semestre 7\Trabalho\Topicos Especiais I\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda\MinhaEmpresa.Agenda.Web2\obj\Debug\MinhaEmpresa.Agenda.Web2.pdb
